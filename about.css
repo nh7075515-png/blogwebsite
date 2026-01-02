@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    min-height: 100vh;
+    width: 100%;
+    background-image: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)),url(images/technology-communication-icons-symbols-concept.jpg);
+    background-position: center;
+    background-size: cover;
+    position: relative;
+}
+  .icne{
+    float: left;
+    margin-left: 500px;
+    margin-top: 50px;
+  }
+  .gmail{
+       float: left;
+       margin-left: 100px;
+       margin-top: 50px;
+  }
+  .insta{
+       float: left;
+       margin-left: 100px;
+       margin-top: 50px;
+  }
+  .tiktok{
+        float: left;
+       margin-left: 100px;
+       margin-top: 50px;
+  }
+  .icons :hover{
+       border: 10px solid transparent;
+       background: scroll;
+       transition: 3s;
+  }
+ .contactus{
+    text-align: center;
+    padding: 200px;
+    color: #fff;
+    font-size: xxx-large;
+ }
+ .contactus h1{
+    font-size: xxx-large;
+ }

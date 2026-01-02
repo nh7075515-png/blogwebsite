@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.blog{
+    
+       text-align: center;
+}
+.blog h1{
+    font-size: xxx-large;
+}
+p{
+      font-size: xx-large;
+    font-weight: 400;
+}
+ .blog li{
+      font-size: xx-large;
+    font-weight: 550;
+ }

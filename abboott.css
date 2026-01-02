@@ -1,0 +1,23 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.abad{
+       text-align: center;
+    }
+.abad h1{
+    font-size: xxx-large;
+}
+p{
+    font-size: xx-large;
+    font-weight: 400;
+}
+.abad li{
+    font-size: xx-large;
+    font-weight: 600;
+}
+.img :hover{
+       border: 10px solid transparent;
+    background: scroll;
+    transition: 3s;
+}
